@@ -1,0 +1,5 @@
+{
+  "name": "KDP Dot-to-Dot Book Generator",
+  "description": "An application that uses AI to generate complete dot-to-dot cartoon activity books, including covers and descriptions, formatted for Amazon KDP.",
+  "requestFramePermissions": []
+}
